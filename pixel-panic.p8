@@ -1,6 +1,8 @@
 pico-8 cartridge // http://www.pico-8.com
 version 42
 __lua__
+--pixel panic
+--by TheVoid
 #include cdata.lua
 #include consts.lua
 #include loading-box.lua
